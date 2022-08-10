@@ -41,9 +41,10 @@
 
 | 권한설정 및 위도경도 불러오기  | 키워드 검색 | 날짜, 가격 인원 설정 | 숙소 검색 결과 및 지도 |
 |:--------:|:--------:|:--------:|:--------:|
-| <img src=https://user-images.githubusercontent.com/79504043/173237033-1510c848-c876-4621-9127-8cec96567699.gif width=200> | <img src=https://user-images.githubusercontent.com/79504043/173237067-44ad303b-fef6-4266-949c-0cd252135e0b.gif width=200> | <img src=https://user-images.githubusercontent.com/79504043/173237631-c4266b00-acdf-4d61-8c4a-765d69adc19a.gif width=200> | <img src=https://user-images.githubusercontent.com/79504043/173238564-e366f104-0b9c-4595-a8b8-8bceb86cfead.gif width=200> |
+| <img src=https://user-images.githubusercontent.com/79504043/183879242-e9cabc10-7d12-477f-b9eb-ae75354fd94b.gif width=200> | <img src=https://user-images.githubusercontent.com/79504043/183879451-acf69aea-3aab-4f9b-a15f-c292beb10f6e.gif width=200> | <img src=https://user-images.githubusercontent.com/79504043/183879661-874375a5-d6ec-4b4a-b272-9714da7a7fe5.gif width=200> | <img src=https://user-images.githubusercontent.com/79504043/183879842-bbee0066-53ae-4645-ab5e-867d8c15aa41.gif width=200> |
 
 ## MAD Scorecard
 <img src="https://user-images.githubusercontent.com/79504043/173233691-3eb89b24-d6ac-41bc-9076-bfe1ea94def6.png">  
 <img src="https://user-images.githubusercontent.com/79504043/173233699-4cc2ba9d-9c5e-4276-b3ba-682b233aac70.png">  
-<img src="https://user-images.githubusercontent.com/79504043/173233701-1c64b646-42cb-4a04-9847-33215c1c6f22.png">  
+<img src="https://user-images.githubusercontent.com/79504043/173233701-1c64b646-42cb-4a04-9847-33215c1c6f22.png"> 
+
